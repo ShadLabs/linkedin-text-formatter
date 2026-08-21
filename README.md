@@ -59,6 +59,10 @@ Bold:
 
 𝐇𝐞𝐥𝐥𝐨 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧
 
+## 🌐 Live Demo
+
+🚀 [Try the LinkedIn Text Formatter](https://shadlabs.github.io/linkedin-text-formatter/)
+
 ## 🔒 Privacy
 
 Your post content is not uploaded to a server.
