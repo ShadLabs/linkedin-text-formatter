@@ -24,6 +24,15 @@ A lightweight browser-based tool for writing, formatting, previewing, and copyin
 - Responsive design
 - Privacy-friendly — formatting happens entirely in the browser
 
+## 📸 Preview
+
+![LinkedIn Text Formatter Screenshot](assets/LTF.png)
+
+## 🌐 Live Demo
+
+🚀 [Try the LinkedIn Text Formatter](https://shadlabs.github.io/linkedin-text-formatter/)
+
+
 ## 🛠️ Built With
 
 - HTML5
@@ -34,6 +43,7 @@ A lightweight browser-based tool for writing, formatting, previewing, and copyin
 - Web Storage API
 - DOM API
 
+
 ## ⌨️ Keyboard Shortcuts
 
 | Shortcut | Action |
@@ -42,6 +52,7 @@ A lightweight browser-based tool for writing, formatting, previewing, and copyin
 | `Ctrl + I` / `Cmd + I` | Italic |
 | `Ctrl + Z` / `Cmd + Z` | Undo |
 | `Ctrl + Shift + Z` / `Cmd + Shift + Z` | Redo |
+
 
 ## 🚀 How It Works
 
@@ -59,15 +70,13 @@ Bold:
 
 𝐇𝐞𝐥𝐥𝐨 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧
 
-## 🌐 Live Demo
-
-🚀 [Try the LinkedIn Text Formatter](https://shadlabs.github.io/linkedin-text-formatter/)
 
 ## 🔒 Privacy
 
 Your post content is not uploaded to a server.
 
 All formatting and preview functionality runs locally inside your browser.
+
 
 ## 📦 Run Locally
 
